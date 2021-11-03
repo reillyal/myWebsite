@@ -1,0 +1,41 @@
+/*working :)*/
+
+.sometest body{
+font-family: 'Roboto', sans-serif;
+}
+
+.sometest{
+font-family: 'Fruktur', cursive;
+color: blue;
+border: 5px outset red;
+background-color: lightblue;
+text-align: center;
+}
+
+.warning{
+    border: 20px ridge lightblue;
+    background-color: red;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.warning img { 
+background-size: contain;
+  width: 300px;
+  height: 200px;
+resize: both;
+overflow:scroll;
+}
+
+
+
+.warning p {
+	color:white;
+    font: small-caps bold 3.2rem sans-serif;
+    text-align: center;
+}
+
+p {
+color:yellow;
+}
