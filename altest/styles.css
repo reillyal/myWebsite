@@ -8,13 +8,13 @@ font-family: 'Roboto', sans-serif;
 font-family: 'Fruktur', cursive;
 color: blue;
 border: 5px outset red;
-background-color: lightblue;
+background-color: black;
 text-align: center;
 }
 
 .warning{
     border: 20px ridge lightblue;
-    background-color: red;
+    background-color: black;
     padding: .5rem;
     display: flex;
     flex-direction: column;
